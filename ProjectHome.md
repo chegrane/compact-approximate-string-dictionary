@@ -1,0 +1,1 @@
+Simple, compact and robust approximate string dictionary
